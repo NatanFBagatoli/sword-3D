@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mechanical Aatrox Sword
+* source:	https://sketchfab.com/3d-models/mechanical-aatrox-sword-8ff892cc4ba045ecb48214d332abb102
+* author:	sanekcloff (https://sketchfab.com/sanekcloff)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mechanical Aatrox Sword" (https://sketchfab.com/3d-models/mechanical-aatrox-sword-8ff892cc4ba045ecb48214d332abb102) by sanekcloff (https://sketchfab.com/sanekcloff) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
